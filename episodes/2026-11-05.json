@@ -1,0 +1,164 @@
+{
+  "format": "monoradio/news-1",
+  "date": "2026-11-05",
+  "lang": "en",
+  "title": "TEST PILOT — not for broadcast",
+  "opening": [
+    {
+      "say": "Good morning. You're connected to The Morning Modem, signing on at fifty-six K.",
+      "show": "Good morning. You're connected to The Morning Modem, signing on at 56k."
+    },
+    {
+      "say": "Yesterday's tech, reported like it's brand new. Test pilot only, not for broadcast.",
+      "show": "Yesterday's tech, reported like it's brand new. Test pilot only, not for broadcast."
+    }
+  ],
+  "news": [
+    {
+      "label": "IBM unveils the Personal Computer",
+      "points": [
+        "Unveiled August 12, 1981, at New York’s Waldorf Hotel",
+        "From USD 1,565; 16 KB RAM and no disk drive",
+        "Open design supports software and peripheral development"
+      ],
+      "lines": [
+        {
+          "say": "Breaking from New York, August twelfth, nineteen eighty-one: I B M has just unveiled its Personal Computer at the Waldorf Hotel.",
+          "show": "Breaking from New York, August 12, 1981: IBM has just unveiled its Personal Computer at the Waldorf Hotel."
+        },
+        {
+          "say": "The price starts at one thousand five hundred sixty-five dollars, with sixteen kilobytes of RAM and no disk drive.",
+          "show": "The price starts at USD 1,565, with 16 KB of RAM and no disk drive."
+        },
+        {
+          "say": "The design is open. I B M is publishing circuit details and source code for software and peripheral developers.",
+          "show": "The design is open. IBM is publishing circuit details and source code for software and peripheral developers."
+        }
+      ],
+      "url": "https://www.ibm.com/history/personal-computer"
+    },
+    {
+      "label": "Commodore 64 debuts at Winter CES",
+      "points": [
+        "Introduced at Winter CES in Las Vegas, January 1982",
+        "USD 595 with 64 KB of memory",
+        "Graphics and sound chips designed and prototyped in-house"
+      ],
+      "lines": [
+        {
+          "say": "Next stop, Las Vegas, January nineteen eighty-two. Commodore is introducing the Commodore sixty-four at the Winter Consumer Electronics Show.",
+          "show": "Next stop, Las Vegas, January 1982. Commodore is introducing the Commodore 64 at the Winter Consumer Electronics Show."
+        },
+        {
+          "say": "For five hundred ninety-five dollars, the package includes sixty-four kilobytes of memory, a keyboard, processor, graphics, and sound.",
+          "show": "For USD 595, the package includes 64 KB of memory, a keyboard, processor, graphics, and sound."
+        },
+        {
+          "say": "The graphics and sound chips were designed in-house at Commodore's M O S Technology subsidiary, using its own chip fabrication facilities.",
+          "show": "The graphics and sound chips were designed in-house at Commodore's MOS Technology subsidiary, using its own chip fabrication facilities."
+        }
+      ],
+      "url": "https://spectrum.ieee.org/commodore-64"
+    }
+  ],
+  "closing": [
+    {
+      "say": "That's The Morning Modem. We sign on weekly at seven A M, Chicago time.",
+      "show": "That's The Morning Modem. We sign on weekly at 07:00 America/Chicago."
+    },
+    {
+      "say": "Keep the line clear. End of test transmission.",
+      "show": "Keep the line clear. End of test transmission."
+    }
+  ],
+  "seconds": 79.536,
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.288,
+      "show": "Good morning. You're connected to The Morning Modem, signing on at 56k.",
+      "part": 0
+    },
+    {
+      "start": 6.538,
+      "end": 13.642,
+      "show": "Yesterday's tech, reported like it's brand new. Test pilot only, not for broadcast.",
+      "part": 0
+    },
+    {
+      "start": 13.892,
+      "end": 22.292,
+      "show": "Breaking from New York, August 12, 1981: IBM has just unveiled its Personal Computer at the Waldorf Hotel.",
+      "part": 1
+    },
+    {
+      "start": 22.542,
+      "end": 30.054,
+      "show": "The price starts at USD 1,565, with 16 KB of RAM and no disk drive.",
+      "part": 1
+    },
+    {
+      "start": 30.304,
+      "end": 38.704,
+      "show": "The design is open. IBM is publishing circuit details and source code for software and peripheral developers.",
+      "part": 1
+    },
+    {
+      "start": 38.954,
+      "end": 49.37,
+      "show": "Next stop, Las Vegas, January 1982. Commodore is introducing the Commodore 64 at the Winter Consumer Electronics Show.",
+      "part": 2
+    },
+    {
+      "start": 49.62,
+      "end": 58.884,
+      "show": "For USD 595, the package includes 64 KB of memory, a keyboard, processor, graphics, and sound.",
+      "part": 2
+    },
+    {
+      "start": 59.134,
+      "end": 68.374,
+      "show": "The graphics and sound chips were designed in-house at Commodore's MOS Technology subsidiary, using its own chip fabrication facilities.",
+      "part": 2
+    },
+    {
+      "start": 68.624,
+      "end": 74.792,
+      "show": "That's The Morning Modem. We sign on weekly at 07:00 America/Chicago.",
+      "part": 3
+    },
+    {
+      "start": 75.042,
+      "end": 79.482,
+      "show": "Keep the line clear. End of test transmission.",
+      "part": 3
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": null,
+      "start": 0.0,
+      "end": 13.892
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 13.892,
+      "end": 38.954
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 38.954,
+      "end": 68.624
+    },
+    {
+      "kind": "closing",
+      "index": null,
+      "start": 68.624,
+      "end": 79.536
+    }
+  ],
+  "made_at": "2026-11-05T23:12:25-06:00"
+}

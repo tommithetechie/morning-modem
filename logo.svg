@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 96" role="img" aria-labelledby="title desc">
+  <title id="title">The Morning Modem placeholder mark</title>
+  <desc id="desc">An original line-drawn modem with MM initials, three status lights, and a phone-line waveform.</desc>
+  <g fill="none" stroke="#ffd028" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 24h20l8-12 8 24 8-12h15"/>
+    <rect x="18" y="44" width="124" height="40" rx="8"/>
+    <path d="M34 70V56l8 9 8-9v14m12 0V56l8 9 8-9v14M32 84v5m96-5v5"/>
+  </g>
+  <g fill="#3fe0dc"><circle cx="100" cy="64" r="3"/><circle cx="114" cy="64" r="3"/><circle cx="128" cy="64" r="3"/></g>
+</svg>
